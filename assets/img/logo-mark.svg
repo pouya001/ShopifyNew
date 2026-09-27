@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" role="img" aria-label="Égide">
-  <path d="M18.5 7.5 8 10.5v12.2c0 9.3 6.6 16.3 16 19.8 9.4-3.5 16-10.5 16-19.8V10.5L29.5 7.5" stroke="#D4A55A" stroke-width="4" stroke-linecap="square" stroke-linejoin="miter"/>
-  <circle cx="24" cy="7.5" r="3.6" fill="#D4A55A"/>
-  <path d="M24 17v15" stroke="#D4A55A" stroke-width="4" stroke-linecap="square"/>
+  <path d="M18.5 7.5 8 10.5v12.2c0 9.3 6.6 16.3 16 19.8 9.4-3.5 16-10.5 16-19.8V10.5L29.5 7.5" stroke="#FFB547" stroke-width="4" stroke-linecap="square" stroke-linejoin="miter"/>
+  <circle cx="24" cy="7.5" r="3.6" fill="#FFB547"/>
+  <path d="M24 17v15" stroke="#FFB547" stroke-width="4" stroke-linecap="square"/>
 </svg>

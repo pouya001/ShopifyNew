@@ -7,10 +7,27 @@ Site statique (HTML, CSS, JavaScript sans dépendance) pour **Égide Events SRL*
 | Élément | Choix |
 | --- | --- |
 | Nom | **Égide** : « sous l'égide de », être sous la protection de quelqu'un |
-| Promesse | *Veiller sur la foule. Accueillir chaque invité.* |
+| Promesse | *Vous recevez. Nous veillons.* |
 | Logo | Un bouclier ouvert dont la tête et le buste forment une silhouette de garde (`assets/img/logo-mark.svg`) |
-| Couleurs | Encre de nuit `#0B0F18` (sécurité) · Ivoire `#F1ECE2` (accueil) · Laiton `#D4A55A` (accent) |
-| Typographies | Archivo condensé (titres, style signalétique) · Cormorant italique (élégance) · IBM Plex Mono (codes radio, horaires) |
+| Direction | « Nocturne » : la nuit d'un événement, une seule lumière qui veille sur la foule |
+| Couleurs | Noir chaud `#0A0908` · Os `#F2EDE4` · Ambre projecteur `#FFB547` |
+| Typographies | Archivo à largeur variable (titres géants) · Cormorant italique (élégance) · IBM Plex Mono (messages radio, horaires) |
+
+## Moments forts
+
+- **Hero « faisceau »** : la foule est plongée dans le noir, un projecteur suit le curseur et la révèle en couleur (sur mobile, il se déplace seul).
+- **Ticker radio** : les messages du PC sécurité défilent en direct sous le hero.
+- **Manifeste** : le texte s'allume mot à mot au défilement.
+- **Deux pôles** : deux grands panneaux photo qui s'ouvrent au survol.
+- **« Une nuit avec Égide »** : défilement horizontal de J-30 à J+2, avec une horloge qui avance.
+- **Terrains** : liste géante, un aperçu photo suit le curseur.
+- **Estimateur de dispositif**, bouton rond à texte tournant, grand logotype en pied de page.
+
+Animations : GSAP + ScrollTrigger et Lenis (défilement doux), hébergés dans `assets/vendor/`. Tout est désactivé si le visiteur a choisi de réduire les animations.
+
+## Photos
+
+Les photos de `assets/photos/` proviennent d'[Unsplash](https://unsplash.com) (licence Unsplash : usage commercial gratuit, sans attribution obligatoire). Remplacez-les dès que possible par de vraies photos de vos équipes en mission : c'est ce qui convaincra le plus vos clients.
 
 ## Pages
 
@@ -58,5 +75,5 @@ Après la mise en ligne : déclarez le site dans Google Search Console, envoyez 
 ## Prochaines étapes conseillées
 
 - Version néerlandaise (`/nl/`) : une grande partie du marché bruxellois et flamand cherche en néerlandais.
-- Photos réelles des équipes en mission, qui remplaceront ou compléteront les visuels graphiques.
+- Photos et vidéos réelles de vos équipes en mission (une courte vidéo en boucle dans le hero ferait un effet fort).
 - Références clients et témoignages réels, avec leur accord.
